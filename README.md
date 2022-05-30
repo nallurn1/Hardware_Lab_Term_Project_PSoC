@@ -7,3 +7,11 @@ Throughout the semester there were countless projects completed utilizing the PS
 * 70 points: Use of 32L476GDISCOVERY board
 * 30 points: Digital to Analog Converter 
 * 20 points: At least 10 lines (equivalent) of ‘C’ hand coded in assembly language, Seven-segment display, Three or more push-buttons, Appropriate use of interrupt service routine(s)
+
+### References
+[1] Cypress Semiconductor Corporation. “CY8CKIT-050 PSoC® 5 Development Kit Guide.” Cypress. 
+[2] “INND-TS56 Series 0.56’ Through Hole Single Digit Display.” Inolux, Inolux Corporation, 12 July 2017. 
+[3] Khatri, Pankaj. “Push Button LED Circuit.” Circuit Digest, 26 Jan. 2018, https://circuitdigest.com/electronic-circuits/push-button-led-circuit. 
+[4] “Project 2 -Segment LED”, Pearlstein Larry , 4 August 2021. 
+[5] “Project 3 – Character LCD & Switch Debouncing”, Pearlstein Larry , 23 September 2021. 
+
